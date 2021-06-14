@@ -1,0 +1,15 @@
+.board button {
+    width: 120px;
+    height: 120px;
+    border: none;
+    background: var(--game-bg);
+    border: 0.5px solid var(--game-border);
+    font-size: 50px;
+    color: var(--white)
+}
+
+@media only screen and (max-width: 768px) {
+    .board button {
+        width: 33.3%;
+    }
+}
