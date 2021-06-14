@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <header>
             <h1>Tic Tac Toe</h1>
-            <p>ReactJS experiment by Edin Kahvedžić</p>
+            <p>Simple ReactJS game</p>
         </header>
     )
 }
